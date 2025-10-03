@@ -31,3 +31,5 @@ Lowering the `mintFeeRate` to 37.5 bp will help with the sETH peg, as well as en
 ## Copyright
 
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+<!-- Auto-update: 2025-10-03T12:50:37.073355 -->
